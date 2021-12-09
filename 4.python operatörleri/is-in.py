@@ -12,6 +12,6 @@ b=[1,2]
 print(a is b)
 
 # membership operator: in
-# içinde olup olmadığı sorgulanır. yok mu diye sorgulama->>not in
+# içinde olup olmadığı sorgulanır. yok mu diye sorgulama->>not in 
 x=['apple','banana']
 print('banana' in x)
