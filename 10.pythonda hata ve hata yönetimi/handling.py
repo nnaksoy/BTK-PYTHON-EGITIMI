@@ -1,4 +1,5 @@
-#hat yönetimi
+#hata yönetimi
+#güvenli kod yazmak için try-except komutları kullanılrır
 while True:#while sayesinde yanlış oludğu sürece devam eder. doğru sonucu yani else girdiğinde whiledan çıkar
     try:
         x=int(input('x: '))
